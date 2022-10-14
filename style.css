@@ -1,0 +1,39 @@
+.quizContainer{
+    border:1px solid rgb(12, 233, 30);
+    width:40%;
+    padding: 30px 10px 30px 70px;
+    background-color: rgb(12, 8, 8);
+    margin: 10% 5% 15% 25%;
+}
+h2{
+    background-image: linear-gradient(rgb(21, 236, 14),rgb(75, 75, 75));
+    width:80%;
+    text-align: center;
+    padding: 10px;
+    margin:0;
+    border:1px solid rgb(10, 2, 9);
+    border-radius: 5%;    
+}
+ul{
+    padding:0;
+    margin:0;
+}
+ul li{
+    list-style-type: none;  
+    border-bottom: 1px solid rgb(5, 3, 3);
+    color: rgb(15, 238, 26);
+    padding: 10px;
+    width: 80%;
+    font-size: 18px;
+}
+.submit{
+    padding: 10px 30px;
+    font-size: 19px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 30%;
+    background-image: linear-gradient(rgb(11, 241, 30),rgb(82, 82, 82));
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/151/563/original/vector-random-numbers-matrix-background.jpg);
+}
